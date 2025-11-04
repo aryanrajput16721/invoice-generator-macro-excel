@@ -26,11 +26,15 @@ To create a reusable and automated invoice format in Excel that:
 - VBA Macros (Record Macro)
 - Excel Formulas (SUM, IF, Percentage Calculations)
 
-## 📸 Project Preview
+## 📸 Invoice System Preview
 
-![Invoice Screenshot](https://github.com/your-username/your-repo-name/blob/main/invoice-screenshot.png?raw=true)
+### 🧾 Format 1 – Fully Automatic Invoice in Excel
+![Invoice Format 1](https://github.com/aryanrajput16721/invoice-generator-macro-excel/blob/main/Fully_Automatic_Invoice_in_Excel.png?raw=true)
 
-> The invoice auto-calculates totals and stores each transaction in a structured table for future reference.
+### 🧾 Format 2 – Fully Automatic InvoiceExcel
+![Invoice Format 2](https://github.com/aryanrajput16721/invoice-generator-macro-excel/blob/main/Fully_Automatic_InvoiceExcel.png?raw=true)
+
+> Both formats showcase automated invoice generation using macros and dynamic formulas.
 
 ## 🧠 Learning Outcomes
 
